@@ -1,0 +1,15 @@
+﻿Console.Clear();
+Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine("Preparar...");
+Console.ResetColor();
+Console.ReadKey();
+Console.Clear();
+Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine("Apontar...");
+Console.ResetColor();
+Console.ReadKey();
+Console.Clear();
+Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine("Fogo!");
+Console.Beep(1759, 1000);
+Console.ResetColor();
