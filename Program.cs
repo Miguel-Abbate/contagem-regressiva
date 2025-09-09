@@ -4,7 +4,7 @@ Console.Write("Preparar...");
 Console.ResetColor();
 Console.ReadKey();
 Console.Clear();
-Console.BackgroundColor = ConsoleColor.Red;
+Console.BackgroundColor = ConsoleColor.DarkYellow;
 Console.Write("Apontar...");
 Console.ResetColor();
 Console.ReadKey();
