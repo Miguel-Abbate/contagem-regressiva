@@ -10,7 +10,7 @@ Console.ResetColor();
 Console.ReadKey();
 Console.Clear();
 Console.BackgroundColor = ConsoleColor.Green;
-Console.Beep(1759, 1000);
+Console.Beep(1759, 500);
 Console.WriteLine("Fogo!");
 Console.ResetColor();
 Console.ReadKey();
